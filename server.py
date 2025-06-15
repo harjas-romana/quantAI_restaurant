@@ -56,7 +56,7 @@ app.add_middleware(
 # Initialize our agents
 text_agent = QuantAIAgent()
 # voice_agent = VoiceAgent()
-tts_engine = TextToSpeech()
+# tts_engine = TextToSpeech()
 
 # Create temp directory for audio files
 TEMP_DIR = Path("temp_audio")
