@@ -1,0 +1,449 @@
+{
+    "restaurant_name": "QuantAI Restaurant",
+    "owner": "Harjas Singh",
+    "infrastructure": {
+        "dining_areas": {
+            "main_dining": {
+                "capacity": 100,
+                "tables": {
+                    "two_seater": 20,
+                    "four_seater": 15,
+                    "six_seater": 5,
+                    "private_booths": 10
+                },
+                "features": [
+                    "Ambient lighting",
+                    "Live music area",
+                    "Bar counter"
+                ],
+                "staff": {
+                    "servers": 8,
+                    "hosts": 2,
+                    "bartenders": 3
+                }
+            },
+            "outdoor_patio": {
+                "capacity": 50,
+                "tables": {
+                    "two_seater": 10,
+                    "four_seater": 5,
+                    "six_seater": 2
+                },
+                "features": [
+                    "Heating lamps",
+                    "Garden view",
+                    "Umbrella coverage"
+                ],
+                "staff": {
+                    "servers": 4,
+                    "hosts": 1
+                }
+            },
+            "private_rooms": {
+                "capacity": 40,
+                "rooms": {
+                    "small": 2,
+                    "medium": 1,
+                    "large": 1
+                },
+                "features": [
+                    "AV equipment",
+                    "Private bar",
+                    "Catering kitchen"
+                ],
+                "staff": {
+                    "dedicated_servers": 2,
+                    "event_coordinator": 1
+                }
+            }
+        },
+        "kitchen": {
+            "stations": {
+                "hot_line": {
+                    "equipment": [
+                        "6-burner range",
+                        "2 convection ovens",
+                        "Salamander"
+                    ],
+                    "staff": [
+                        "Sous chef",
+                        "Line cooks",
+                        "Prep cooks"
+                    ],
+                    "capacity": "100 covers/hour"
+                },
+                "cold_line": {
+                    "equipment": [
+                        "Prep tables",
+                        "Refrigeration units",
+                        "Salad station"
+                    ],
+                    "staff": [
+                        "Cold line chef",
+                        "Prep cooks"
+                    ],
+                    "capacity": "50 covers/hour"
+                },
+                "pastry": {
+                    "equipment": [
+                        "Pastry ovens",
+                        "Mixers",
+                        "Refrigeration"
+                    ],
+                    "staff": [
+                        "Pastry chef",
+                        "Pastry cooks"
+                    ],
+                    "capacity": "30 desserts/hour"
+                }
+            },
+            "storage": {
+                "dry_storage": 200,
+                "refrigeration": 150,
+                "freezer": 100,
+                "wine_cellar": 300
+            }
+        },
+        "equipment": {
+            "cooking": {
+                "ranges": 4,
+                "ovens": 6,
+                "grills": 2,
+                "fryers": 2,
+                "steamers": 1
+            },
+            "refrigeration": {
+                "walk_in": 2,
+                "reach_in": 8,
+                "under_counter": 12
+            },
+            "preparation": {
+                "food_processors": 3,
+                "mixers": 2,
+                "slicers": 2
+            }
+        }
+    },
+    "quality_metrics": {
+        "food_safety": {
+            "inspection_scores": {
+                "health_inspection": 98,
+                "food_safety_audit": 95,
+                "haccp_compliance": 97,
+                "allergen_management": 96,
+                "cross_contamination_prevention": 94
+            },
+            "incident_rates": {
+                "food_borne_illness": 0.001,
+                "cross_contamination": 0.002,
+                "temperature_violations": 0.003,
+                "allergen_incidents": 0.001,
+                "equipment_failures": 0.002
+            },
+            "preventive_measures": {
+                "daily_temperature_logs": true,
+                "weekly_cleaning_schedules": true,
+                "monthly_pest_control": true,
+                "quarterly_equipment_maintenance": true
+            }
+        },
+        "customer_experience": {
+            "satisfaction_score": 4.7,
+            "wait_times": {
+                "seating": 5,
+                "food_preparation": 15,
+                "checkout": 3,
+                "bar_service": 4,
+                "special_requests": 8
+            },
+            "service_quality": {
+                "staff_friendliness": 4.8,
+                "food_quality": 4.9,
+                "ambiance": 4.7,
+                "cleanliness": 4.8,
+                "menu_knowledge": 4.7,
+                "wine_knowledge": 4.6,
+                "allergen_awareness": 4.9,
+                "special_requests_handling": 4.7
+            },
+            "feedback_metrics": {
+                "online_reviews": 4.6,
+                "in_person_feedback": 4.8,
+                "social_media_engagement": 4.5,
+                "repeat_customer_rate": 0.65
+            }
+        },
+        "operational_metrics": {
+            "table_turnover_rate": 2.5,
+            "average_check_size": 45.0,
+            "peak_hours_occupancy": 0.85,
+            "kitchen_efficiency": {
+                "prep_time": 10,
+                "cooking_time": 15,
+                "plating_time": 3,
+                "expediting_time": 2,
+                "special_requests_time": 5
+            },
+            "service_efficiency": {
+                "average_table_service_time": 90,
+                "bar_service_time": 4,
+                "kitchen_to_table_time": 12,
+                "checkout_time": 3
+            },
+            "staff_productivity": {
+                "tables_per_server": 4,
+                "covers_per_cook": 25,
+                "dishes_per_dishwasher": 100
+            }
+        },
+        "financial_metrics": {
+            "food_cost_percentage": 0.32,
+            "labor_cost_percentage": 0.28,
+            "overhead_percentage": 0.25,
+            "profit_margin": 0.15,
+            "revenue_streams": {
+                "food_sales": 0.65,
+                "beverage_sales": 0.25,
+                "catering": 0.05,
+                "merchandise": 0.03,
+                "special_events": 0.02
+            },
+            "cost_breakdown": {
+                "ingredients": 0.32,
+                "labor": 0.28,
+                "rent": 0.08,
+                "utilities": 0.05,
+                "marketing": 0.04,
+                "maintenance": 0.03,
+                "insurance": 0.02,
+                "other": 0.18
+            }
+        },
+        "sustainability_metrics": {
+            "waste_reduction": {
+                "food_waste": 0.05,
+                "packaging_waste": 0.03,
+                "water_usage": 0.02,
+                "energy_consumption": 0.04
+            },
+            "sourcing": {
+                "local_ingredients": 0.75,
+                "organic_ingredients": 0.45,
+                "sustainable_seafood": 0.9,
+                "fair_trade_products": 0.6
+            },
+            "energy_efficiency": {
+                "led_lighting": 0.95,
+                "energy_star_equipment": 0.85,
+                "smart_thermostats": 0.9,
+                "water_saving_devices": 0.8
+            }
+        }
+    },
+    "certifications": {
+        "food_safety": {
+            "status": "Certified",
+            "last_inspection": "2024-01-15",
+            "next_inspection": "2024-07-15",
+            "certifications": [
+                "ServSafe",
+                "HACCP",
+                "ISO 22000",
+                "Allergen Management",
+                "Food Safety Modernization Act"
+            ]
+        },
+        "sustainability": {
+            "green_certification": "Platinum",
+            "waste_reduction": "Gold",
+            "energy_efficiency": "Silver",
+            "sustainable_sourcing": "Gold",
+            "water_conservation": "Gold",
+            "carbon_footprint_reduction": "Silver"
+        },
+        "industry_awards": [
+            "Best Fine Dining 2023",
+            "Excellence in Service 2023",
+            "Innovative Menu Design 2023",
+            "Sustainable Restaurant of the Year 2023",
+            "Wine Program Excellence 2023",
+            "Chef of the Year 2023",
+            "Best New Restaurant 2023",
+            "Outstanding Hospitality 2023"
+        ],
+        "specialty_certifications": {
+            "wine_program": "Advanced Sommelier",
+            "cheese_program": "Certified Cheese Professional",
+            "coffee_program": "Specialty Coffee Association",
+            "tea_program": "Specialty Tea Association"
+        }
+    },
+    "culinary_knowledge": {
+        "cuisines": {
+            "Contemporary American": {
+                "signature_dishes": [
+                    "Pan-Seared Sea Bass",
+                    "Wagyu Beef Tenderloin",
+                    "Truffle Mac and Cheese",
+                    "Lobster Bisque"
+                ],
+                "cooking_techniques": [
+                    "Sous vide",
+                    "Pan searing",
+                    "Smoking",
+                    "Braising"
+                ],
+                "key_ingredients": [
+                    "Local produce",
+                    "Sustainable seafood",
+                    "Premium meats",
+                    "Artisanal cheeses"
+                ],
+                "wine_pairings": [
+                    "Chardonnay",
+                    "Cabernet Sauvignon",
+                    "Pinot Noir",
+                    "Sauvignon Blanc"
+                ],
+                "dietary_accommodations": [
+                    "Vegetarian",
+                    "Vegan",
+                    "Gluten-free",
+                    "Dairy-free"
+                ]
+            },
+            "Mediterranean": {
+                "signature_dishes": [
+                    "Grilled Octopus",
+                    "Lamb Chops",
+                    "Fattoush Salad",
+                    "Hummus Trio"
+                ],
+                "cooking_techniques": [
+                    "Grilling",
+                    "Roasting",
+                    "Marinating",
+                    "Slow cooking"
+                ],
+                "key_ingredients": [
+                    "Olive oil",
+                    "Fresh herbs",
+                    "Citrus",
+                    "Legumes"
+                ],
+                "wine_pairings": [
+                    "Ros\u00e9",
+                    "Grenache",
+                    "Tempranillo",
+                    "Vermentino"
+                ],
+                "dietary_accommodations": [
+                    "Vegetarian",
+                    "Vegan",
+                    "Gluten-free",
+                    "Halal"
+                ]
+            }
+        },
+        "ingredients": {
+            "proteins": {
+                "beef": {
+                    "cuts": [
+                        "Ribeye",
+                        "Filet Mignon",
+                        "Strip Steak",
+                        "Wagyu"
+                    ],
+                    "grades": [
+                        "Prime",
+                        "Choice",
+                        "Select"
+                    ],
+                    "sourcing": [
+                        "Local farms",
+                        "Premium suppliers"
+                    ],
+                    "storage": "Refrigerated, 32-34\u00b0F"
+                },
+                "seafood": {
+                    "types": [
+                        "Salmon",
+                        "Sea Bass",
+                        "Tuna",
+                        "Lobster"
+                    ],
+                    "sourcing": [
+                        "Sustainable fisheries",
+                        "Local suppliers"
+                    ],
+                    "storage": "Refrigerated, 30-32\u00b0F",
+                    "shelf_life": "2-3 days"
+                }
+            },
+            "produce": {
+                "vegetables": {
+                    "categories": [
+                        "Root vegetables",
+                        "Leafy greens",
+                        "Nightshades"
+                    ],
+                    "sourcing": [
+                        "Local farms",
+                        "Organic suppliers"
+                    ],
+                    "storage": "Refrigerated, 35-38\u00b0F",
+                    "shelf_life": "5-7 days"
+                },
+                "fruits": {
+                    "categories": [
+                        "Citrus",
+                        "Berries",
+                        "Stone fruits"
+                    ],
+                    "sourcing": [
+                        "Local farms",
+                        "Seasonal suppliers"
+                    ],
+                    "storage": "Refrigerated, 35-38\u00b0F",
+                    "shelf_life": "3-5 days"
+                }
+            }
+        },
+        "techniques": {
+            "basic": {
+                "knife_skills": [
+                    "Julienne",
+                    "Brunoise",
+                    "Chiffonade"
+                ],
+                "cooking_methods": [
+                    "Saut\u00e9ing",
+                    "Roasting",
+                    "Grilling"
+                ],
+                "sauces": [
+                    "Reduction",
+                    "Emulsification",
+                    "Roux-based"
+                ]
+            },
+            "advanced": {
+                "molecular": [
+                    "Spherification",
+                    "Foams",
+                    "Gels"
+                ],
+                "preservation": [
+                    "Pickling",
+                    "Curing",
+                    "Fermentation"
+                ],
+                "plating": [
+                    "Composition",
+                    "Garnishing",
+                    "Sauce work"
+                ]
+            }
+        }
+    }
+}

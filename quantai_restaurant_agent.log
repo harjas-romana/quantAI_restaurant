@@ -1,0 +1,41 @@
+2025-06-15 03:50:23,221 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 03:50:57,889 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 03:50:57,948 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:51:08,969 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM?output_format=mp3_44100_128 "HTTP/1.1 401 Unauthorized"
+2025-06-15 03:51:08,971 - ERROR - Invalid or expired API key. Please check your ElevenLabs API key.
+2025-06-15 03:51:08,972 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:51:41,944 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:52:14,778 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:52:25,422 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM?output_format=mp3_44100_128 "HTTP/1.1 401 Unauthorized"
+2025-06-15 03:52:25,425 - ERROR - Invalid or expired API key. Please check your ElevenLabs API key.
+2025-06-15 03:52:25,425 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:53:06,457 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 03:53:06,544 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:53:27,824 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM?output_format=mp3_44100_128 "HTTP/1.1 401 Unauthorized"
+2025-06-15 03:53:27,827 - ERROR - Invalid or expired API key. Please check your ElevenLabs API key.
+2025-06-15 03:53:27,828 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:55:43,410 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 03:55:43,468 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:56:05,039 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM?output_format=mp3_44100_128 "HTTP/1.1 401 Unauthorized"
+2025-06-15 03:56:05,042 - ERROR - Invalid or expired API key. Please check your ElevenLabs API key.
+2025-06-15 03:56:05,043 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:56:37,706 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 03:59:14,470 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 03:59:16,498 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 04:14:10,085 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 04:14:11,993 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 04:14:17,089 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 04:14:19,018 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 04:14:19,163 - INFO - 4 changes detected
+2025-06-15 04:14:20,934 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 04:14:22,815 - INFO - QuantAI Restaurant Agent initialized successfully
+2025-06-15 04:14:22,824 - INFO - Starting QuantAI Restaurant API Server
+2025-06-15 04:14:22,838 - INFO - Processing text query: hi...
+2025-06-15 04:14:22,838 - INFO - Language set to: english
+2025-06-15 04:14:46,357 - ERROR - Unexpected Error: 'choices'
+2025-06-15 04:14:51,897 - INFO - Processing text query: hiiiiii...
+2025-06-15 04:14:51,897 - INFO - Language set to: english
+2025-06-15 04:15:08,517 - INFO - Processing text query: i am sexy. you?...
+2025-06-15 04:15:08,520 - INFO - Language set to: english
+2025-06-15 04:15:11,202 - ERROR - API Error: 429 - {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1749945600000"},"provider_name":null}},"user_id":"user_2wwTEUDiX2rFmftAVAK2FVVAoYG"}
+2025-06-15 04:15:31,528 - INFO - Shutting down QuantAI Restaurant API Server

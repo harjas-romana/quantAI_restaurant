@@ -1,0 +1,233 @@
+2025-06-15 19:30:40,289 - INFO - QuantAI Agent initialized successfully
+2025-06-15 19:30:40,343 - INFO - Using audio device: Jas’s iPhone Microphone
+2025-06-15 19:33:57,863 - INFO - QuantAI Agent initialized successfully
+2025-06-15 19:34:05,685 - ERROR - API Error: 429 - {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1750032000000"},"provider_name":null}},"user_id":"user_2wwTEUDiX2rFmftAVAK2FVVAoYG"}
+2025-06-15 20:32:02,209 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:32:04,237 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:32:09,040 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:32:11,245 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:32:11,342 - INFO - 1 change detected
+2025-06-15 20:32:13,542 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:32:15,853 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:32:15,856 - INFO - Starting QuantAI Restaurant API Server
+2025-06-15 20:32:16,519 - INFO - 1 change detected
+2025-06-15 20:32:18,323 - INFO - 1 change detected
+2025-06-15 20:32:24,166 - INFO - Processing text query: hi
+...
+2025-06-15 20:32:24,167 - INFO - Language set to: english
+2025-06-15 20:32:27,201 - ERROR - API Error: 429 - {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1750032000000"},"provider_name":null}},"user_id":"user_2wwTEUDiX2rFmftAVAK2FVVAoYG"}
+2025-06-15 20:33:20,258 - INFO - 1 change detected
+2025-06-15 20:33:42,305 - INFO - 1 change detected
+2025-06-15 20:33:49,559 - INFO - 1 change detected
+2025-06-15 20:33:49,920 - INFO - 1 change detected
+2025-06-15 20:34:25,591 - INFO - 2 changes detected
+2025-06-15 20:34:28,263 - INFO - 1 change detected
+2025-06-15 20:34:28,625 - INFO - 2 changes detected
+2025-06-15 20:34:34,781 - INFO - 2 changes detected
+2025-06-15 20:34:41,658 - INFO - 1 change detected
+2025-06-15 20:34:56,759 - INFO - 1 change detected
+2025-06-15 20:35:10,429 - INFO - 1 change detected
+2025-06-15 20:35:10,844 - INFO - 1 change detected
+2025-06-15 20:36:55,320 - INFO - 1 change detected
+2025-06-15 20:37:44,509 - INFO - 1 change detected
+2025-06-15 20:38:19,837 - INFO - 1 change detected
+2025-06-15 20:38:20,199 - INFO - 1 change detected
+2025-06-15 20:38:48,087 - INFO - 1 change detected
+2025-06-15 20:38:51,210 - INFO - 1 change detected
+2025-06-15 20:38:54,404 - INFO - 1 change detected
+2025-06-15 20:38:55,632 - INFO - 1 change detected
+2025-06-15 20:39:16,317 - INFO - 1 change detected
+2025-06-15 20:39:27,246 - INFO - 1 change detected
+2025-06-15 20:39:56,494 - INFO - 1 change detected
+2025-06-15 20:40:02,737 - INFO - 1 change detected
+2025-06-15 20:40:07,140 - INFO - 1 change detected
+2025-06-15 20:40:15,066 - INFO - 1 change detected
+2025-06-15 20:41:04,564 - INFO - 1 change detected
+2025-06-15 20:41:35,754 - INFO - 1 change detected
+2025-06-15 20:41:41,623 - INFO - 1 change detected
+2025-06-15 20:41:43,289 - INFO - 1 change detected
+2025-06-15 20:41:44,403 - INFO - 1 change detected
+2025-06-15 20:41:45,576 - INFO - 1 change detected
+2025-06-15 20:41:53,067 - INFO - 1 change detected
+2025-06-15 20:42:00,295 - INFO - 1 change detected
+2025-06-15 20:42:17,692 - INFO - 2 changes detected
+2025-06-15 20:42:18,814 - INFO - 1 change detected
+2025-06-15 20:42:19,823 - INFO - 1 change detected
+2025-06-15 20:42:20,828 - INFO - 1 change detected
+2025-06-15 20:42:30,464 - INFO - 1 change detected
+2025-06-15 20:42:30,834 - INFO - 1 change detected
+2025-06-15 20:42:31,196 - INFO - 1 change detected
+2025-06-15 20:42:31,883 - INFO - 1 change detected
+2025-06-15 20:42:32,880 - INFO - 1 change detected
+2025-06-15 20:42:38,081 - INFO - 1 change detected
+2025-06-15 20:42:38,451 - INFO - 1 change detected
+2025-06-15 20:42:39,240 - INFO - 1 change detected
+2025-06-15 20:42:43,345 - INFO - 2 changes detected
+2025-06-15 20:42:44,458 - INFO - 1 change detected
+2025-06-15 20:42:45,420 - INFO - 1 change detected
+2025-06-15 20:42:46,427 - INFO - 1 change detected
+2025-06-15 20:42:50,242 - INFO - 1 change detected
+2025-06-15 20:42:50,606 - INFO - 2 changes detected
+2025-06-15 20:52:48,138 - INFO - 2 changes detected
+2025-06-15 20:52:49,137 - INFO - 1 change detected
+2025-06-15 20:53:10,899 - INFO - 2 changes detected
+2025-06-15 20:53:11,914 - INFO - 1 change detected
+2025-06-15 20:53:14,769 - INFO - 1 change detected
+2025-06-15 20:53:15,131 - INFO - 2 changes detected
+2025-06-15 20:53:27,189 - INFO - 2 changes detected
+2025-06-15 20:53:28,267 - INFO - 1 change detected
+2025-06-15 20:55:13,188 - INFO - 1 change detected
+2025-06-15 20:55:24,062 - INFO - 1 change detected
+2025-06-15 20:55:31,801 - INFO - 1 change detected
+2025-06-15 20:55:34,204 - INFO - 1 change detected
+2025-06-15 20:55:43,864 - INFO - 1 change detected
+2025-06-15 20:56:32,921 - INFO - 1 change detected
+2025-06-15 20:56:33,287 - INFO - 2 changes detected
+2025-06-15 20:56:44,230 - INFO - 2 changes detected
+2025-06-15 20:57:05,703 - INFO - 2 changes detected
+2025-06-15 20:57:06,766 - INFO - 1 change detected
+2025-06-15 20:58:09,075 - INFO - 1 change detected
+2025-06-15 20:58:11,113 - INFO - 1 change detected
+2025-06-15 20:58:11,475 - INFO - 1 change detected
+2025-06-15 20:58:34,221 - INFO - Shutting down QuantAI Restaurant API Server
+2025-06-15 20:58:40,817 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:58:43,004 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:58:47,365 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:58:49,618 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:58:49,710 - INFO - 1 change detected
+2025-06-15 20:58:51,922 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:58:54,125 - INFO - QuantAI Agent initialized successfully
+2025-06-15 20:58:54,128 - INFO - Starting QuantAI Restaurant API Server
+2025-06-15 20:58:55,891 - INFO - 1 change detected
+2025-06-15 21:01:01,482 - INFO - 1 change detected
+2025-06-15 21:01:03,500 - INFO - 1 change detected
+2025-06-15 21:01:12,809 - INFO - 1 change detected
+2025-06-15 21:01:14,680 - INFO - 1 change detected
+2025-06-15 21:01:21,809 - INFO - 1 change detected
+2025-06-15 21:01:23,309 - INFO - 1 change detected
+2025-06-15 21:01:31,833 - INFO - 1 change detected
+2025-06-15 21:01:33,166 - INFO - 1 change detected
+2025-06-15 21:01:48,955 - INFO - 1 change detected
+2025-06-15 21:03:14,021 - INFO - 1 change detected
+2025-06-15 21:03:16,083 - INFO - 1 change detected
+2025-06-15 21:03:16,494 - INFO - 1 change detected
+2025-06-15 21:03:58,120 - INFO - 1 change detected
+2025-06-15 21:04:04,284 - INFO - 1 change detected
+2025-06-15 21:04:19,026 - INFO - 1 change detected
+2025-06-15 21:04:20,082 - INFO - 1 change detected
+2025-06-15 21:04:20,438 - INFO - 1 change detected
+2025-06-15 21:04:54,774 - INFO - 1 change detected
+2025-06-15 21:06:23,818 - INFO - 1 change detected
+2025-06-15 21:06:24,779 - INFO - 1 change detected
+2025-06-15 21:06:56,771 - INFO - 1 change detected
+2025-06-15 21:06:59,769 - INFO - 1 change detected
+2025-06-15 21:07:00,820 - INFO - 1 change detected
+2025-06-15 21:07:34,827 - INFO - 1 change detected
+2025-06-15 21:08:07,178 - INFO - 1 change detected
+2025-06-15 21:08:50,786 - INFO - 1 change detected
+2025-06-15 21:08:51,797 - INFO - 1 change detected
+2025-06-15 21:09:41,655 - INFO - 1 change detected
+2025-06-15 21:10:23,802 - INFO - 1 change detected
+2025-06-15 21:10:40,900 - INFO - 2 changes detected
+2025-06-15 21:12:16,468 - INFO - 1 change detected
+2025-06-15 21:12:17,796 - INFO - 1 change detected
+2025-06-15 21:12:38,572 - INFO - 7 changes detected
+2025-06-15 21:12:47,059 - INFO - 1 change detected
+2025-06-15 21:12:47,419 - INFO - 2 changes detected
+2025-06-15 21:12:48,281 - INFO - 3 changes detected
+2025-06-15 21:12:48,644 - INFO - 1 change detected
+2025-06-15 21:12:49,280 - INFO - 1 change detected
+2025-06-15 21:12:49,637 - INFO - 1 change detected
+2025-06-15 21:12:50,421 - INFO - 1 change detected
+2025-06-15 21:12:57,412 - INFO - 6 changes detected
+2025-06-15 21:13:06,838 - INFO - 1 change detected
+2025-06-15 21:13:07,313 - INFO - 1 change detected
+2025-06-15 21:13:10,994 - INFO - 2 changes detected
+2025-06-15 21:13:12,034 - INFO - 3 changes detected
+2025-06-15 21:13:13,078 - INFO - 1 change detected
+2025-06-15 21:13:13,445 - INFO - 1 change detected
+2025-06-15 21:13:14,128 - INFO - 1 change detected
+2025-06-15 21:13:14,489 - INFO - 1 change detected
+2025-06-15 21:13:14,903 - INFO - 1 change detected
+2025-06-15 21:13:26,460 - INFO - Processing text query: hi...
+2025-06-15 21:13:26,461 - INFO - Language set to: english
+2025-06-15 21:13:29,299 - ERROR - API Error: 429 - {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1750032000000"},"provider_name":null}},"user_id":"user_2wwTEUDiX2rFmftAVAK2FVVAoYG"}
+2025-06-15 21:15:00,845 - INFO - 1 change detected
+2025-06-15 21:15:11,925 - INFO - 1 change detected
+2025-06-15 21:15:13,603 - INFO - 1 change detected
+2025-06-15 21:15:24,555 - INFO - 1 change detected
+2025-06-15 21:15:25,534 - INFO - 1 change detected
+2025-06-15 21:16:58,838 - INFO - 1 change detected
+2025-06-15 21:17:00,244 - INFO - 1 change detected
+2025-06-15 21:17:09,127 - INFO - 1 change detected
+2025-06-15 21:17:12,337 - INFO - Shutting down QuantAI Restaurant API Server
+2025-06-15 21:17:18,009 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:17:19,929 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:17:23,781 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:17:25,669 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:17:25,780 - INFO - 1 change detected
+2025-06-15 21:17:27,615 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:17:29,499 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:17:29,502 - INFO - Starting QuantAI Restaurant API Server
+2025-06-15 21:18:17,546 - INFO - 1 change detected
+2025-06-15 21:18:27,001 - INFO - 1 change detected
+2025-06-15 21:18:51,163 - INFO - 1 change detected
+2025-06-15 21:19:07,381 - INFO - 1 change detected
+2025-06-15 21:19:08,018 - INFO - 1 change detected
+2025-06-15 21:19:08,385 - INFO - 1 change detected
+2025-06-15 21:19:08,752 - INFO - 1 change detected
+2025-06-15 21:19:09,116 - INFO - 1 change detected
+2025-06-15 21:19:09,477 - INFO - 1 change detected
+2025-06-15 21:19:09,841 - INFO - 1 change detected
+2025-06-15 21:19:10,207 - INFO - 1 change detected
+2025-06-15 21:19:17,538 - INFO - 1 change detected
+2025-06-15 21:19:32,996 - INFO - 1 change detected
+2025-06-15 21:19:51,893 - INFO - Processing text query: hi...
+2025-06-15 21:19:51,897 - INFO - Language set to: english
+2025-06-15 21:19:54,678 - ERROR - API Error: 429 - {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1750032000000"},"provider_name":null}},"user_id":"user_2wwTEUDiX2rFmftAVAK2FVVAoYG"}
+2025-06-15 21:20:03,887 - INFO - 1 change detected
+2025-06-15 21:20:11,036 - INFO - 1 change detected
+2025-06-15 21:20:12,472 - INFO - 1 change detected
+2025-06-15 21:20:39,766 - INFO - 1 change detected
+2025-06-15 21:21:05,234 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:21:07,536 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:22:55,986 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:22:57,901 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:23:48,238 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:23:50,199 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:23:53,406 - INFO - 1 change detected
+2025-06-15 21:23:53,772 - INFO - 2 changes detected
+2025-06-15 21:23:54,212 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:23:56,343 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:23:56,417 - INFO - 1 change detected
+2025-06-15 21:23:59,357 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:24:02,062 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:24:02,070 - INFO - Starting QuantAI Restaurant API Server
+2025-06-15 21:24:17,517 - INFO - 1 change detected
+2025-06-15 21:24:41,027 - INFO - Processing text query: hi...
+2025-06-15 21:24:41,028 - INFO - Language set to: english
+2025-06-15 21:24:43,451 - ERROR - API Error: 429 - {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1750032000000"},"provider_name":null}},"user_id":"user_2wwTEUDiX2rFmftAVAK2FVVAoYG"}
+2025-06-15 21:34:40,005 - INFO - 1 change detected
+2025-06-15 21:35:11,369 - INFO - 1 change detected
+2025-06-15 21:35:13,248 - INFO - 1 change detected
+2025-06-15 21:35:43,274 - INFO - 1 change detected
+2025-06-15 21:35:45,529 - INFO - 1 change detected
+2025-06-15 21:36:29,818 - INFO - 1 change detected
+2025-06-15 21:36:33,564 - INFO - 1 change detected
+2025-06-15 21:36:36,829 - INFO - 1 change detected
+2025-06-15 21:36:39,932 - INFO - 1 change detected
+2025-06-15 21:37:01,395 - INFO - Processing text query: hui...
+2025-06-15 21:37:01,396 - INFO - Language set to: spanish
+2025-06-15 21:37:04,035 - ERROR - API Error: 429 - {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1750032000000"},"provider_name":null}},"user_id":"user_2wwTEUDiX2rFmftAVAK2FVVAoYG"}
+2025-06-15 21:37:06,857 - INFO - Translating response to spanish
+2025-06-15 21:37:37,908 - INFO - 1 change detected
+2025-06-15 21:38:53,414 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:38:55,378 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:38:56,096 - INFO - 1 change detected
+2025-06-15 21:38:56,462 - INFO - 2 changes detected
+2025-06-15 21:38:59,462 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:39:02,296 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:39:02,379 - INFO - 1 change detected
+2025-06-15 21:39:04,867 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:39:07,599 - INFO - QuantAI Agent initialized successfully
+2025-06-15 21:39:07,606 - INFO - Starting QuantAI Restaurant API Server
